@@ -1,0 +1,17 @@
+D:\Doc\VSCode\CSharpWinFormsTutorial\001-WindowsForms-Inputs-to-Listview\WindowsFormsInputToListView\bin\Debug\net8.0-windows\WindowsFormsInputToListView.exe
+D:\Doc\VSCode\CSharpWinFormsTutorial\001-WindowsForms-Inputs-to-Listview\WindowsFormsInputToListView\bin\Debug\net8.0-windows\WindowsFormsInputToListView.deps.json
+D:\Doc\VSCode\CSharpWinFormsTutorial\001-WindowsForms-Inputs-to-Listview\WindowsFormsInputToListView\bin\Debug\net8.0-windows\WindowsFormsInputToListView.runtimeconfig.json
+D:\Doc\VSCode\CSharpWinFormsTutorial\001-WindowsForms-Inputs-to-Listview\WindowsFormsInputToListView\bin\Debug\net8.0-windows\WindowsFormsInputToListView.dll
+D:\Doc\VSCode\CSharpWinFormsTutorial\001-WindowsForms-Inputs-to-Listview\WindowsFormsInputToListView\bin\Debug\net8.0-windows\WindowsFormsInputToListView.pdb
+D:\Doc\VSCode\CSharpWinFormsTutorial\001-WindowsForms-Inputs-to-Listview\WindowsFormsInputToListView\obj\Debug\net8.0-windows\WindowsFormsInputToListView.Form1.resources
+D:\Doc\VSCode\CSharpWinFormsTutorial\001-WindowsForms-Inputs-to-Listview\WindowsFormsInputToListView\obj\Debug\net8.0-windows\WindowsFormsInputToListView.csproj.GenerateResource.cache
+D:\Doc\VSCode\CSharpWinFormsTutorial\001-WindowsForms-Inputs-to-Listview\WindowsFormsInputToListView\obj\Debug\net8.0-windows\WindowsFormsInputToListView.GeneratedMSBuildEditorConfig.editorconfig
+D:\Doc\VSCode\CSharpWinFormsTutorial\001-WindowsForms-Inputs-to-Listview\WindowsFormsInputToListView\obj\Debug\net8.0-windows\WindowsFormsInputToListView.AssemblyInfoInputs.cache
+D:\Doc\VSCode\CSharpWinFormsTutorial\001-WindowsForms-Inputs-to-Listview\WindowsFormsInputToListView\obj\Debug\net8.0-windows\WindowsFormsInputToListView.AssemblyInfo.cs
+D:\Doc\VSCode\CSharpWinFormsTutorial\001-WindowsForms-Inputs-to-Listview\WindowsFormsInputToListView\obj\Debug\net8.0-windows\WindowsFormsInputToListView.csproj.CoreCompileInputs.cache
+D:\Doc\VSCode\CSharpWinFormsTutorial\001-WindowsForms-Inputs-to-Listview\WindowsFormsInputToListView\obj\Debug\net8.0-windows\WindowsFormsInputToListView.sourcelink.json
+D:\Doc\VSCode\CSharpWinFormsTutorial\001-WindowsForms-Inputs-to-Listview\WindowsFormsInputToListView\obj\Debug\net8.0-windows\WindowsFormsInputToListView.dll
+D:\Doc\VSCode\CSharpWinFormsTutorial\001-WindowsForms-Inputs-to-Listview\WindowsFormsInputToListView\obj\Debug\net8.0-windows\refint\WindowsFormsInputToListView.dll
+D:\Doc\VSCode\CSharpWinFormsTutorial\001-WindowsForms-Inputs-to-Listview\WindowsFormsInputToListView\obj\Debug\net8.0-windows\WindowsFormsInputToListView.pdb
+D:\Doc\VSCode\CSharpWinFormsTutorial\001-WindowsForms-Inputs-to-Listview\WindowsFormsInputToListView\obj\Debug\net8.0-windows\WindowsFormsInputToListView.genruntimeconfig.cache
+D:\Doc\VSCode\CSharpWinFormsTutorial\001-WindowsForms-Inputs-to-Listview\WindowsFormsInputToListView\obj\Debug\net8.0-windows\ref\WindowsFormsInputToListView.dll
