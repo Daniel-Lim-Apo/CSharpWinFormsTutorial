@@ -1,0 +1,17 @@
+D:\Doc\VSCode\CSharpWinFormsTutorial\003-WindowsForms-Import-Csv-File-To-Listview\WinFormsImportCsvFileToListview\obj\Debug\net8.0-windows\WinFormsImportCsvFileToListview.Form1.resources
+D:\Doc\VSCode\CSharpWinFormsTutorial\003-WindowsForms-Import-Csv-File-To-Listview\WinFormsImportCsvFileToListview\obj\Debug\net8.0-windows\WinFormsImportCsvFileToListview.csproj.GenerateResource.cache
+D:\Doc\VSCode\CSharpWinFormsTutorial\003-WindowsForms-Import-Csv-File-To-Listview\WinFormsImportCsvFileToListview\obj\Debug\net8.0-windows\WinFormsImportCsvFileToListview.GeneratedMSBuildEditorConfig.editorconfig
+D:\Doc\VSCode\CSharpWinFormsTutorial\003-WindowsForms-Import-Csv-File-To-Listview\WinFormsImportCsvFileToListview\obj\Debug\net8.0-windows\WinFormsImportCsvFileToListview.AssemblyInfoInputs.cache
+D:\Doc\VSCode\CSharpWinFormsTutorial\003-WindowsForms-Import-Csv-File-To-Listview\WinFormsImportCsvFileToListview\obj\Debug\net8.0-windows\WinFormsImportCsvFileToListview.AssemblyInfo.cs
+D:\Doc\VSCode\CSharpWinFormsTutorial\003-WindowsForms-Import-Csv-File-To-Listview\WinFormsImportCsvFileToListview\obj\Debug\net8.0-windows\WinFormsImportCsvFileToListview.csproj.CoreCompileInputs.cache
+D:\Doc\VSCode\CSharpWinFormsTutorial\003-WindowsForms-Import-Csv-File-To-Listview\WinFormsImportCsvFileToListview\obj\Debug\net8.0-windows\WinFormsImportCsvFileToListview.sourcelink.json
+D:\Doc\VSCode\CSharpWinFormsTutorial\003-WindowsForms-Import-Csv-File-To-Listview\WinFormsImportCsvFileToListview\bin\Debug\net8.0-windows\WinFormsImportCsvFileToListview.exe
+D:\Doc\VSCode\CSharpWinFormsTutorial\003-WindowsForms-Import-Csv-File-To-Listview\WinFormsImportCsvFileToListview\bin\Debug\net8.0-windows\WinFormsImportCsvFileToListview.deps.json
+D:\Doc\VSCode\CSharpWinFormsTutorial\003-WindowsForms-Import-Csv-File-To-Listview\WinFormsImportCsvFileToListview\bin\Debug\net8.0-windows\WinFormsImportCsvFileToListview.runtimeconfig.json
+D:\Doc\VSCode\CSharpWinFormsTutorial\003-WindowsForms-Import-Csv-File-To-Listview\WinFormsImportCsvFileToListview\bin\Debug\net8.0-windows\WinFormsImportCsvFileToListview.dll
+D:\Doc\VSCode\CSharpWinFormsTutorial\003-WindowsForms-Import-Csv-File-To-Listview\WinFormsImportCsvFileToListview\bin\Debug\net8.0-windows\WinFormsImportCsvFileToListview.pdb
+D:\Doc\VSCode\CSharpWinFormsTutorial\003-WindowsForms-Import-Csv-File-To-Listview\WinFormsImportCsvFileToListview\obj\Debug\net8.0-windows\WinFormsImportCsvFileToListview.dll
+D:\Doc\VSCode\CSharpWinFormsTutorial\003-WindowsForms-Import-Csv-File-To-Listview\WinFormsImportCsvFileToListview\obj\Debug\net8.0-windows\refint\WinFormsImportCsvFileToListview.dll
+D:\Doc\VSCode\CSharpWinFormsTutorial\003-WindowsForms-Import-Csv-File-To-Listview\WinFormsImportCsvFileToListview\obj\Debug\net8.0-windows\WinFormsImportCsvFileToListview.pdb
+D:\Doc\VSCode\CSharpWinFormsTutorial\003-WindowsForms-Import-Csv-File-To-Listview\WinFormsImportCsvFileToListview\obj\Debug\net8.0-windows\WinFormsImportCsvFileToListview.genruntimeconfig.cache
+D:\Doc\VSCode\CSharpWinFormsTutorial\003-WindowsForms-Import-Csv-File-To-Listview\WinFormsImportCsvFileToListview\obj\Debug\net8.0-windows\ref\WinFormsImportCsvFileToListview.dll
