@@ -1,0 +1,17 @@
+D:\Doc\VSCode\CSharpWinFormsTutorial\002-WindowsForms-Export-Listview-to-File\WinFormsExportListviewToFile\bin\Debug\net8.0-windows\WinFormsExportListviewToFile.exe
+D:\Doc\VSCode\CSharpWinFormsTutorial\002-WindowsForms-Export-Listview-to-File\WinFormsExportListviewToFile\bin\Debug\net8.0-windows\WinFormsExportListviewToFile.deps.json
+D:\Doc\VSCode\CSharpWinFormsTutorial\002-WindowsForms-Export-Listview-to-File\WinFormsExportListviewToFile\bin\Debug\net8.0-windows\WinFormsExportListviewToFile.runtimeconfig.json
+D:\Doc\VSCode\CSharpWinFormsTutorial\002-WindowsForms-Export-Listview-to-File\WinFormsExportListviewToFile\bin\Debug\net8.0-windows\WinFormsExportListviewToFile.dll
+D:\Doc\VSCode\CSharpWinFormsTutorial\002-WindowsForms-Export-Listview-to-File\WinFormsExportListviewToFile\bin\Debug\net8.0-windows\WinFormsExportListviewToFile.pdb
+D:\Doc\VSCode\CSharpWinFormsTutorial\002-WindowsForms-Export-Listview-to-File\WinFormsExportListviewToFile\obj\Debug\net8.0-windows\WinFormsExportListviewToFile.Form1.resources
+D:\Doc\VSCode\CSharpWinFormsTutorial\002-WindowsForms-Export-Listview-to-File\WinFormsExportListviewToFile\obj\Debug\net8.0-windows\WinFormsExportListviewToFile.csproj.GenerateResource.cache
+D:\Doc\VSCode\CSharpWinFormsTutorial\002-WindowsForms-Export-Listview-to-File\WinFormsExportListviewToFile\obj\Debug\net8.0-windows\WinFormsExportListviewToFile.GeneratedMSBuildEditorConfig.editorconfig
+D:\Doc\VSCode\CSharpWinFormsTutorial\002-WindowsForms-Export-Listview-to-File\WinFormsExportListviewToFile\obj\Debug\net8.0-windows\WinFormsExportListviewToFile.AssemblyInfoInputs.cache
+D:\Doc\VSCode\CSharpWinFormsTutorial\002-WindowsForms-Export-Listview-to-File\WinFormsExportListviewToFile\obj\Debug\net8.0-windows\WinFormsExportListviewToFile.AssemblyInfo.cs
+D:\Doc\VSCode\CSharpWinFormsTutorial\002-WindowsForms-Export-Listview-to-File\WinFormsExportListviewToFile\obj\Debug\net8.0-windows\WinFormsExportListviewToFile.csproj.CoreCompileInputs.cache
+D:\Doc\VSCode\CSharpWinFormsTutorial\002-WindowsForms-Export-Listview-to-File\WinFormsExportListviewToFile\obj\Debug\net8.0-windows\WinFormsExportListviewToFile.sourcelink.json
+D:\Doc\VSCode\CSharpWinFormsTutorial\002-WindowsForms-Export-Listview-to-File\WinFormsExportListviewToFile\obj\Debug\net8.0-windows\WinFormsExportListviewToFile.dll
+D:\Doc\VSCode\CSharpWinFormsTutorial\002-WindowsForms-Export-Listview-to-File\WinFormsExportListviewToFile\obj\Debug\net8.0-windows\refint\WinFormsExportListviewToFile.dll
+D:\Doc\VSCode\CSharpWinFormsTutorial\002-WindowsForms-Export-Listview-to-File\WinFormsExportListviewToFile\obj\Debug\net8.0-windows\WinFormsExportListviewToFile.pdb
+D:\Doc\VSCode\CSharpWinFormsTutorial\002-WindowsForms-Export-Listview-to-File\WinFormsExportListviewToFile\obj\Debug\net8.0-windows\WinFormsExportListviewToFile.genruntimeconfig.cache
+D:\Doc\VSCode\CSharpWinFormsTutorial\002-WindowsForms-Export-Listview-to-File\WinFormsExportListviewToFile\obj\Debug\net8.0-windows\ref\WinFormsExportListviewToFile.dll
